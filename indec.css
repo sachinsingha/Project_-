@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar{
+    height: 100px;
+    background-color: #64c4cd;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    
+}
+.logo{
+    height: 100px;
+width: 100px;
+color: white;
+background-image: url(logo.png);
+background-size: cover;
+position:fixed;
+right:1175px;
+top: 0px;
+}
+
+
