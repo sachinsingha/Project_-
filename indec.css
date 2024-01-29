@@ -5,23 +5,15 @@
 }
 .navbar{
     height: 100px;
-    background-color: #64c4cd;
+    width: 100%;
+    background-color:whitesmoke;
     color: white;
-    display: flex;
-    align-items: center;
+    display:flex;
+    align-items:normal;
     justify-content: space-evenly;
-    position: relative;
+    position:fixed;
     
 }
-.logo{
-    height: 100px;
-width: 100px;
-color: white;
-background-image: url(logo.png);
-background-size: cover;
-position:fixed;
-right:1175px;
-top: 0px;
-}
+
 
 
