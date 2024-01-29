@@ -3,17 +3,7 @@
     font-family: Arial;
     border: border-box;
 }
-.navbar{
-    height: 100px;
-    width: 100%;
-    background-color:whitesmoke;
-    color: white;
-    display:flex;
-    align-items:normal;
-    justify-content: space-evenly;
-    position:fixed;
-    
-}
+
 
 
 
