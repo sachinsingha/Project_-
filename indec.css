@@ -24,4 +24,9 @@ right:1175px;
 top: 0px;
 }
 
+.text-white a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
 
