@@ -17,6 +17,7 @@ header {
     align-items: center;
 }
 
+<<<<<<< HEAD
 .logo img {
     max-width: 100px; 
 }
@@ -46,4 +47,11 @@ nav a {
 nav a:hover {
     color: #cddcd3;
 }
+=======
+.text-white a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+>>>>>>> f08955bfafb3124e830cc051a482d8cf9a2f9a47
 
